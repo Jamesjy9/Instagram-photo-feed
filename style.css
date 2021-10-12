@@ -1,0 +1,115 @@
+body{
+    background: black;
+    font-family:cursive;
+    
+}
+.container{
+    width: 840px;
+    margin: auto;
+    background: rgb(207, 204, 204);
+        
+}
+h1{
+    margin: 0px;
+   
+}
+.number{
+    float: right;
+    color: grey;
+}
+.heading{
+    text-align: center;
+    background: white;
+
+}
+
+.container2{
+    width: 800px;
+    height: 2000px;
+    margin: auto;
+    padding: 20px;
+    background: rgb(207, 204, 204);
+    display: block;
+    
+}
+
+.first-post{
+    
+    margin: auto;
+    padding-top: 10px;
+    width: 400px;
+    background: white;
+    
+}
+.post-title{
+    padding: 10px;
+}
+.number1{
+    float: right;
+    color: grey;
+}
+
+.first-post img{
+    background: white;
+    width: 400px;
+    padding-bottom:10px;
+}
+.first-post-footer{
+    height: 40px;
+    margin: 10px;
+}
+.second-post{
+    width: 400px;
+    background: white;
+    margin: auto;
+    padding-top: 10px;
+}
+.number2{
+    float: right;
+    color: grey;
+}
+.second-post img{
+    background: white;
+    width: 400px;
+    padding-bottom:10px;
+}
+.second-post-footer{
+    height: 40px;
+    margin: 10px;
+}
+.third-post{
+    width: 400px;
+    background: white;
+    margin: auto;
+    padding-top: 10px;
+}
+.number3{
+    float: right;
+    color: grey;
+}
+.third-post img{
+    background: white;
+    width: 400px;
+    height: 300px;
+    padding-bottom:10px;
+}
+.third-post-footer{
+    height: 40px;
+    margin: 10px;
+}
+.fourth-post{
+    width: 400px;
+    background: white;
+    margin: auto;
+    padding-top: 10px;
+}
+.fourth-post img{
+    background: white;
+    width: 400px;
+    height: 300px;
+    padding-bottom:10px;
+}
+.fourth-post-footer{
+    height: 40px;
+    margin: 10px;
+}
